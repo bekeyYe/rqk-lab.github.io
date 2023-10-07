@@ -1,10 +1,8 @@
 ---
-layout: page
 ---
 
-# About Me
+# About we
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Ke's lab  (柯荣秦的实验室)**.
 

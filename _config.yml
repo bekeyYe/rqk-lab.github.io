@@ -2,12 +2,12 @@ title: Ke‘s lab
 # tagline: Here is personal website of key's lab. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url:https://bekeyye.github.io/rqk-lab.github.io/
 
 # Owner/author information
 owner:
   name: Rongqin Ke
-  avatar: hanlin.jpg
+  avatar: kerongqin.jpg
  # bio:
   email: rke@hqu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -29,7 +29,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/krq.pdf
   - title: Publications
     url: /publications/
   - title: Awards
@@ -42,7 +42,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/xiamen
 future: true
 highlighter: rouge
 # markdown: kramdown

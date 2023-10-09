@@ -5,6 +5,7 @@
 
 
 Here is **Ke's lab  (柯荣秦的实验室)**.
+welcome to our website.
 
 We are a activitis lab about XXX in xiamen **Automation** at huaqiao University 
 

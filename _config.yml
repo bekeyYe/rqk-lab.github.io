@@ -27,7 +27,7 @@ owner:
 # For external links add external: true
 links:
   - title: About Me
-    url: /
+    url: /kerongqin.jpg
   - title: Resume
     url: /file/krq.pdf
   - title: Publications
@@ -36,8 +36,6 @@ links:
     url: /awards/
   - title: Fundings
     url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
   - title: Blogs
     url: /blogs/
 
